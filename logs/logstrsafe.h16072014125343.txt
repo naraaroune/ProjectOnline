@@ -1,0 +1,3 @@
+13-the strings are not equal
+   #pragma oncccekhkhkh
+   #pragma once
